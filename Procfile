@@ -1,0 +1,1 @@
+web: gunicorn API-Capitais.wsgi --log-file -
